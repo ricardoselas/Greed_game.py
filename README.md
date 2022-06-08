@@ -27,5 +27,5 @@ Necessary Technologies
 
 Python 3.8.0 or higher
 
-authors
+author
 Ricardo Selas
