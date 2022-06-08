@@ -28,4 +28,4 @@ Necessary Technologies
 Python 3.8.0 or higher
 
 author
-Ricardo Selas
+Ricardo Selas and Team Code Submission
